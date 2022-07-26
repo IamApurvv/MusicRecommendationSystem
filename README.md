@@ -69,4 +69,4 @@ used cross validation to get the optimal number of neighbors for our K-NN model.
 Overall after the comparisons, we found that the Random Forest have an accuracy of
 ~0.99 on the test set which makes it a stand out model.
 
-##### For detailed information, please read the report pdf 
+ 
